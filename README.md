@@ -17,3 +17,12 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
     php artisan make:controller API/UserController --api
 
 -   Setup Laravel Mix
+
+-   Install Vue dependency and edit configurations
+
+** npm install
+** npm install vue-router
+** npm install vue-progressbar
+** npm install moment --save
+** npm i axios vform
+** npm install watch
