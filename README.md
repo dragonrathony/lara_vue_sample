@@ -30,3 +30,5 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 -   Setup js file
 
 -   Setup Controller
+
+-   Create Blade File
