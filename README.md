@@ -32,3 +32,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 -   Setup Controller
 
 -   Create Blade File
+
+-   Create User component
+
+Happy coding!!!
