@@ -26,3 +26,7 @@ Laravel is accessible, powerful, and provides tools required for large, robust a
 ** npm install moment --save
 ** npm i axios vform
 ** npm install watch
+
+-   Setup js file
+
+-   Setup Controller
